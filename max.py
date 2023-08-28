@@ -3,4 +3,7 @@ y= min (10,12)
 
 #print statement
 print ("max",x)
-print (y)
+print ("min "y)
+
+a=100
+print (a)
